@@ -14,7 +14,7 @@ Bitte vor der Abgabe die tatsächlichen Namen und GitHub-Benutzernamen ergänzen
 | Fadi | Fadisxd | 2 und 3 | `Geschaeftskunde`, `Verein`, `Produkt`, `daten/produkte.csv` |
 | Denis | Denisnejaglov-del | 4 | `Bestellposition`, `Bestellung` |
 
-*Eine Teamleitung wurde bisher nicht festgelegt. Bitte vor der endgültigen Abgabe im Team bestimmen und in dieser Tabelle markieren.*
+* Teamleitung : Fadisxd *
 
 ## So starten Sie
 
