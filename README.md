@@ -11,7 +11,7 @@ Bitte vor der Abgabe die tatsächlichen Namen und GitHub-Benutzernamen ergänzen
 | Name | GitHub-Name | Rolle | Eigene Klassen / Dateien |
 |---|---|---|---|
 | Ibtihal | ibtihaldasuki00-crypto | 1 und 5 | `Kunde`, `Privatkunde`, Demo, README, UML, Integrationstests, QA |
-| Fadi | noch einzutragen | 2 und 3 | `Geschaeftskunde`, `Verein`, `Produkt`, `daten/produkte.csv` |
+| Fadi | Fadisxd | 2 und 3 | `Geschaeftskunde`, `Verein`, `Produkt`, `daten/produkte.csv` |
 | Denis | Denisnejaglov-del | 4 | `Bestellposition`, `Bestellung` |
 
 *Eine Teamleitung wurde bisher nicht festgelegt. Bitte vor der endgültigen Abgabe im Team bestimmen und in dieser Tabelle markieren.*
